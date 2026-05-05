@@ -1,0 +1,1 @@
+from flash_attn.losses.cross_entropy import CrossEntropyLoss as FusedCrossEntropyLoss
